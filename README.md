@@ -1,0 +1,1 @@
+# win-Photo-Invalid-Reg-Value
