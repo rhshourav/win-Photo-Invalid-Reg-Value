@@ -1,5 +1,7 @@
 Windows Registry Editor Version 5.00
 
+
+;Compiled by RH Shourav.
 ;Restore Windows Photo Viewer to Default Apps in Windows 10
 ;Includes complete association settings for file types handled by Windows Photo Viewer
 ;Works in all versions of Windows 10 -- Tested till version 22H2.
