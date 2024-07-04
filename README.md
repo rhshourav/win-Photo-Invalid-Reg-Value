@@ -32,6 +32,11 @@ This happes mostly because of some mising Registry Values. But this can be fixed
 
 
 
-  
+## Contact Info:
+
+Email: ```rhshourav05@gmail.com```
+
+Facebook: [Shourav](facbook.com/lostboyguru)
+
 
 
