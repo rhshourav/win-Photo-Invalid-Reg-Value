@@ -3,8 +3,27 @@
 When opening .JPEG or .PNG or any other image file via 'Windows Photo' Then This Error is showing:
 <img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/img_1.png">
 
-This happes mostly because of some mising Registry Values. But this can be fixed easily.
+This happes mostly because of some mising Registry Values or Corrupted Datafile. But this can be fixed easily.
+## Fast Try:
+ - Go to "Settings": 
+ - Go To "Apps":
 
+   <img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/s1.png">
+
+ - Go To "Apps & features":
+
+   <img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/s2.png">
+
+ - Locate Photos And Goto "Advanced options"
+
+   <img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/s3.png">
+
+ - Under Reset Option Select "Reset"
+
+   <img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/s4.png">
+
+### If this doesn't fix this issue the try 🔻⬇⬇⬇
+ 
 ## Installation Steps:
   - Go to [Releases](https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/releases).<img src="https://github.com/rhshourav/win-Photo-Invalid-Reg-Value/blob/main/img/img_2.png">
    
